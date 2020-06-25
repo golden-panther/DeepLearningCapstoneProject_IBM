@@ -1,5 +1,5 @@
 ## DeepLearningCapstoneProject_IBM
-#'Applied Deep Learning Capstone Project' by IBM on edX
+'Applied Deep Learning Capstone Project' by IBM on edX
 
 I have built a Keras model which classifies 7 different currency notes(european) using their image as input. 
 I have used the ResNet50 and VGG16 models for training. 
